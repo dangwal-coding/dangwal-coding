@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kulsherestha dangwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kulsherestha dangwal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kulsherestha-dangwal-3b0b7222b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kulsherestha dangwal" height="30" width="40" /></a>
 <a href="https://instagram.com/kapil dangwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kapil dangwal" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/bca23w7ki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="bca23w7ki" height="30" width="40" /></a>
 </p>
